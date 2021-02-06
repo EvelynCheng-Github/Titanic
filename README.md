@@ -1,2 +1,2 @@
 # Titanic
-ECO395M_Causal Inference
+UT_2021Spring_ECO395M_Causal Inference
